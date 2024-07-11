@@ -1,1 +1,3 @@
-# personal-configurations
+# My personal configurations
+
+- zsh
